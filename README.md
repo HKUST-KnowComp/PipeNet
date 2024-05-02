@@ -1,6 +1,6 @@
 # Parse-LM-GNN
 
-This is the code repo for: PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs
+This is the code repo for *SEM 2024: PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs
 
 ## Envs
    python: 3.7.13

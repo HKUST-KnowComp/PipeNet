@@ -1,4 +1,4 @@
-# Parse-LM-GNN
+# PipeNet
 
 This is the code repo for *SEM 2024: PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs
 
